@@ -1,18 +1,18 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Business Analytics"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Mkt & Ad Cases"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Design"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Crazy ME"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  #- title: "Blog Posts"
     url: /year-archive/
     
   - title: "CV"
