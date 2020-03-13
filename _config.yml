@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "Shuyi.Chen@simon.rochester.edu"
   generatedFields:
     date:
       type               : "date"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Shuyi Chen"
-  avatar           : "images/shooin photo.jpg"
+  avatar           : "shooin photo.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Rochester"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "shuyi.chen@simon.rochester.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/shuyichen-shooin/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
