@@ -9,9 +9,9 @@ author_profile: true
 
 <img src="/images/AFRICAN DANCE5.jpg?raw=true"/>
 
-<img src="/images/AFRICAN DANCE4.jpg?raw=true"/>
+<img src="/images/AFRICAN DANCE 4.jpg?raw=true"/>
 
-<img src="/images/African Dance (2).jpg?raw=true"/>
+<img src="/images/African Dance (2).JPG?raw=true"/>
 
 ### I will always remember the power and the joy from djembe!
 
