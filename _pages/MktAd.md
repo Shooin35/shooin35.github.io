@@ -4,8 +4,7 @@ title: "Marketing & Advertising Cases"
 permalink: /MktAdCases/
 author_profile: true
 ---
-## Marketing & Advertising Cases (Chinese Version)
-
+## Marketing & Advertising Cases (in Chinese Version)
 ---
 
 [Comparative analysis of operating conditions](/files/Comparative analysis of operating conditions of different stores(2018 Starbucks).pdf)
