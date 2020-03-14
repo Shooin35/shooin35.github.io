@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 [Comparative analysis of operating conditions](/files/Comparative analysis of operating conditions of different stores(2018 Starbucks).pdf)
-<img src="/images/Starbucks?raw=true"/>
+<img src="/images/Starbucks.png?raw=true"/>
 Based on 4C theory (Consumer/Cost/Convenience/Communication) to compare two Starbucks offline shops in Hangzhou.
 ####  Key words: 4C analysis | Comparative analysis | District analysis
 
