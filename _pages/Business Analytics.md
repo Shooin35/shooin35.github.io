@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Business Analytics Cases"
-permalink: /publications/
+permalink: /BusinessAnalytics/
 author_profile: true
 ---
 ## Shuyi's Portfolio
