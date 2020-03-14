@@ -14,9 +14,7 @@ I majored in Advertising in my undergraduate, that was really a fun experience w
 
 However, in my internship in PR company (Burson-Marstellar) and Cosemetics company(Estee Lauder) I found I need to learn more quantiative skills to get accurate insights from consumers for better marketing. That's the reason why I studied in Marketing Analytics in Simon Business School. Here i learnt quantitative skills like analyzing data using R/Python/sql and visualize the results.
 
-<img src="/images/Starbucks.png?raw=true"/>
-
 This website shows my working projects in [Business Analytics](https://shooin35.github.io/BusinessAnalytics/), I used R/sql/TABLEAU/Python to solve different business problems and make strong analysis.
-You can also check my projects in [MKT & AD cases](https://shooin35.github.io/MktAdCases/) and [Design] (https://shooin35.github.io/Design/) where I put some of my planning projects and desined posters.(However, most of them are in Chinese version since these are jobs in my undergraduate.)
+You can also check my projects in [MKT & AD cases](https://shooin35.github.io/MktAdCases/) and [Design](https://shooin35.github.io/Design/) where I put some of my planning projects and desined posters.(However, most of them are in Chinese version since these are jobs in my undergraduate.)
 
 If you wanna know more about me, click [Crazy Me](https://shooin35.github.io/CrazyME/) and see more about my daily life and hobbies!
