@@ -4,7 +4,7 @@ title: "Business Analytics Cases"
 permalink: /BusinessAnalytics/
 author_profile: true
 ---
-## Shuyi's Portfolio
+## Business Analytics & Marketing Analytics Projects
 
 ---
 
